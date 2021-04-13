@@ -1,8 +1,14 @@
 # MARS: Multivariate Adaptive Regression Splines in Python
 
 ## To view the video
-* [Click here](https://youtu.be/9COLjUxSzx8)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=9COLjUxSzx8" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/9COLjUxSzx8?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![MARS: Multivariate Adaptive Regression Splines in Python](http://img.youtube.com/vi/9COLjUxSzx8/0.jpg)](http://www.youtube.com/watch?v=9COLjUxSzx8)
 
